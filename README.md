@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/davidwara/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/davidwara/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+
 # THE WORLD IN ONE DAY — Tuesday 24 November 2026
 
 Entry for the make.fun daily competition
@@ -10,18 +14,18 @@ A dense 1024×1024 newspaper front page covering **36 real stories** from
 Tuesday 24 November 2026, every one dated and sourced:
 
 - 3 large lead stories with custom code-drawn illustrations (Nvidia
-  reinstates Jensen Huang; COP31 collapses with no deal; NATO sends AWACS
-  jets to Poland)
+reinstates Jensen Huang; COP31 collapses with no deal; NATO sends AWACS
+jets to Poland)
 - 12 more stories (4–15), each with a small code-drawn pictogram
 - A "WHERE IT HAPPENED" world map with 15 numbered pins and a pin key
 - A region colour bar (Europe 12, Americas 9, Asia-Pacific 8,
-  Middle East 6, Africa 1)
+Middle East 6, Africa 1)
 - "THE DAY IN UTC" timeline of the day's key moments
 - A KPI number strip (Nvidia +33%, Nasdaq +6%, 258 House seats,
-  24 dead in Banten, 46 COP31 decisions, 12,000 evacuated in Manchester)
+24 dead in Banten, 46 COP31 decisions, 12,000 evacuated in Manchester)
 - "ALSO ON TUESDAY 24 NOVEMBER — 21 MORE STORIES" numbered list
 - A "DATE CHECK" box explaining what was left out and why, plus a
-  "CERTAINTY: REPORTED / CLAIM / FORECAST" legend and a sources line
+"CERTAINTY: REPORTED / CLAIM / FORECAST" legend and a sources line
 
 No stock photos and no external images: every illustration, the map and
 every chart are drawn in code by the renderer.
